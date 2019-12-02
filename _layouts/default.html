@@ -7,8 +7,12 @@
     {% if page.image %}
       <meta content="{{ page.image }}" property="og:image" />
     {% else %}
-      <meta content="https://avatars1.githubusercontent.com/u/8805240" property="og:image" />
+      <meta content="https://avatars1.githubusercontent.com/u/19222091" property="og:image" />
     {% endif %}
+    {% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="5; url=/">
+    {% endif %}
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.ico"/>
     <style type="text/css">
       .foo {
       text-align: center;
@@ -28,8 +32,8 @@
     </div>
 
     {% include footer.html %}
+    {% include disqus.html %}
     {% include analytics.html %}
-    <script id="dsq-count-scr" src="//http-martiansideofthemoon-github-io.disqus.com/count.js" async></script>
   </body>
 
 </html>
