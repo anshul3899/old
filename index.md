@@ -9,7 +9,7 @@ My name is Anshul Yadav, and I am a Junior Undergraduate in Electrical Engineeri
 
 I maintain a list of my research projects and implementations under the [Research]({{ site.url }}/research) tab. To get an insight on my professional life so far, you can have a look at my [CV]({{ site.url }}/cv).
 
-I [blog]({{ site.url }}/archive) the journey of an Electrical Engineer delving deeper into Neural Networks and Machine Learning every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)!
+I [blog]({{ site.url }}/blog.html) the journey of an Electrical Engineer delving deeper into Neural Networks and Machine Learning every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)!
 
 #### Updates
 
@@ -21,7 +21,7 @@ I [blog]({{ site.url }}/archive) the journey of an Electrical Engineer delving d
 </tr>
 <tr><td><b>Summer 2019:</b></td><td> Interned with <a href="https://sites.google.com/site/arpanchattop/">Professor Arpan Chattopadhyay</a> working on False Data Injection Attack.</td>
 </tr>
-<tr><td><b>March 2019:</b></td><td>Started a <a href="https://anshul3899.github.io/archive">blog</a> on the journey of an Electrical Engineer delving deeper into Neural Networks and Machine Learning. </td>
+<tr><td><b>March 2019:</b></td><td>Started a <a href="https://anshul3899.github.io/blog.html">blog</a> on the journey of an Electrical Engineer delving deeper into Neural Networks and Machine Learning. </td>
 </tr>
 <tr><td><b>Winter 2018:</b></td><td> Interned with <a href="http://web.iitd.ac.in/~lalank/">Prof. Lalan Kumar</a> working on Head Related Transfer Function representation using Hemispherical Harmonics. </td>
 </tr>

@@ -11,11 +11,11 @@ In Summer 2017, I worked on PS4 controlled robotic arm with gripper achieving th
 
 I used to lead Robotics Club at IIT Delhi, where we designed and developed drives(holonomic, mecanum etc), multi legged locomotive robots, ROS based differential drive etc.
 
-On a side for fun I [blog]({{ site.url }}/archive), [tweet](https://twitter.com/anshulyadav1911), [open source](https://github.com/anshul3899) my projects and watch movies and Japanese Manga!
+On a side for fun I [blog]({{ site.url }}/blog.html), [tweet](https://twitter.com/anshulyadav1911), [open source](https://github.com/anshul3899) my projects and watch movies and Japanese Manga!
 
 ### Miscellaneous
 * I come from Rewari, Haryana. In the past, I have also lived in Ahmedabad and New Delhi.
-* [Here](https://mlrg-iitd.github.io/) is the Machine Learning Reading Group, I founded along with my friend [Anchit Tandon](https://twitter.com/anchit_tandon) in IIT Delhi.
+* [Here](https://anshul3899.github.io/mlrg-iitd/) is the Machine Learning Reading Group, I founded along with my friend [Anchit Tandon](https://twitter.com/anchit_tandon) in IIT Delhi.
 * I spend a lot of time watching movies & binging Japanese Anime. [Here]({{ site.url }}/anime) is the list of animes I have watched.
-* Whenever I am not thinking about research, I enjoy most of outdoor activities including [Hockey]() 
+* Whenever I am not thinking about research, I enjoy most of outdoor activities including Trekking, Hockey, Soccer and Cycling.
 * I am on [Tweeter](https://twitter.com/anshulyadav1911).
