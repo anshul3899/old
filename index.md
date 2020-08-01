@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/profile.jpg ">
+<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/anshul.jpeg ">
 
 My name is Anshul Yadav, and I am a Junior Undergraduate in Electrical Engineering at [Indian Institue of Technology Delhi](http://iitd.ac.in). I am interested in Deep Learning, Pattern Recognition, Computer Vision, Speech Processing and Recognition and Robotics.
 
